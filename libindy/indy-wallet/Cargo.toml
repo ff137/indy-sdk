@@ -13,7 +13,7 @@ indy-utils = { path = "../indy-utils"}
 libc = "*"
 log = "0.4.8"
 owning_ref = "0.4"
-rmp-serde = "0.13.7"
+rmp-serde = "1.3.0"
 rusqlite = "0.25.3" # Make sure rusqlite for android is also bumped with this. Rusqlite for android is at the bottom of this document.
 rust-base58 = "0.0.4"
 serde = "1.0.99"
